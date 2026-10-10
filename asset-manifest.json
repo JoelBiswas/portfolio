@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.00aae309.css",
-    "main.js": "/portfolio/static/js/main.dc808d48.js",
+    "main.css": "/portfolio/static/css/main.fcaf4294.css",
+    "main.js": "/portfolio/static/js/main.c8f7d42b.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/nasa.png": "/portfolio/static/media/nasa.c19177a7c9c1b17a1a4c.png",
     "static/media/cyberpatriots.png": "/portfolio/static/media/cyberpatriots.fc514afa93e354d42ea6.png",
@@ -30,7 +30,6 @@
     "static/media/linux.svg": "/portfolio/static/media/linux.1ae7229d28d57fb184b684dd6602cf64.svg",
     "static/media/bash.svg": "/portfolio/static/media/bash.12b9574c657e4e3629a692b1f78fdb65.svg",
     "static/media/typescript.svg": "/portfolio/static/media/typescript.5a8731afb70af69ca7846c3a07080df4.svg",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/dart.svg": "/portfolio/static/media/dart.567c9e876cb41827e1bdae024960b7ff.svg",
     "static/media/git.svg": "/portfolio/static/media/git.8ee81345da1c18b6cdb4bbe93b464810.svg",
     "static/media/supabase.svg": "/portfolio/static/media/supabase.c328a6dbe87dc1d380e05fa35eea3f5a.svg",
@@ -38,12 +37,12 @@
     "static/media/flutter.svg": "/portfolio/static/media/flutter.50bb17c0e69f24a17adbcca9bd6e8528.svg",
     "index.html": "/portfolio/index.html",
     "static/media/unity.svg": "/portfolio/static/media/unity.5219b8c30e9017838ad4a404f2758635.svg",
-    "main.00aae309.css.map": "/portfolio/static/css/main.00aae309.css.map",
-    "main.dc808d48.js.map": "/portfolio/static/js/main.dc808d48.js.map",
+    "main.fcaf4294.css.map": "/portfolio/static/css/main.fcaf4294.css.map",
+    "main.c8f7d42b.js.map": "/portfolio/static/js/main.c8f7d42b.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00aae309.css",
-    "static/js/main.dc808d48.js"
+    "static/css/main.fcaf4294.css",
+    "static/js/main.c8f7d42b.js"
   ]
 }
